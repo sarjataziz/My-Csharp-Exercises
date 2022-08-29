@@ -34,7 +34,7 @@ class Sample
         product2.CalculateTax();
         product3.CalculateTax();
 
-        Console.WriteLine("Product 1: ");
+        Console.WriteLine("\nProduct 1: ");
         Console.WriteLine("Product ID: " + product1.GetProductID());
         Console.WriteLine("Product Name: " + product1.GetProductName());
         Console.WriteLine("Product Cost: " + product1.GetCost());
@@ -42,7 +42,7 @@ class Sample
         Console.WriteLine("Date of Purchase: " + product1.GetDateOfPurchase());
         Console.WriteLine("Tax: " + product1.GetTax());
 
-        Console.WriteLine("\nProduct 2: ");
+        Console.WriteLine("\n\nProduct 2: ");
         Console.WriteLine("Product ID: " + product2.GetProductID());
         Console.WriteLine("Product Name: " + product2.GetProductName());
         Console.WriteLine("Product Cost: " + product2.GetCost());
@@ -50,7 +50,7 @@ class Sample
         Console.WriteLine("Date of Purchase: " + product2.GetDateOfPurchase());
         Console.WriteLine("Tax : " + product2.GetTax());
 
-        Console.WriteLine("\nProduct 3: ");
+        Console.WriteLine("\n\nProduct 3: ");
         Console.WriteLine("Product ID: " + product3.GetProductID());
         Console.WriteLine("Product Name: " + product3.GetProductName());
         Console.WriteLine("Product Cost: " + product3.GetCost());
