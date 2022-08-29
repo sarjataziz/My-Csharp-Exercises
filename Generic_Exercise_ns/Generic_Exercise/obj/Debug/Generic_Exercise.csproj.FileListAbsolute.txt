@@ -1,0 +1,8 @@
+D:\C# Programming\C# Code\Generic_Exercise_ns\Generic_Exercise\bin\Debug\Generic_Exercise.exe.config
+D:\C# Programming\C# Code\Generic_Exercise_ns\Generic_Exercise\bin\Debug\Generic_Exercise.exe
+D:\C# Programming\C# Code\Generic_Exercise_ns\Generic_Exercise\bin\Debug\Generic_Exercise.pdb
+D:\C# Programming\C# Code\Generic_Exercise_ns\Generic_Exercise\obj\Debug\Generic_Exercise.csproj.AssemblyReference.cache
+D:\C# Programming\C# Code\Generic_Exercise_ns\Generic_Exercise\obj\Debug\Generic_Exercise.csproj.SuggestedBindingRedirects.cache
+D:\C# Programming\C# Code\Generic_Exercise_ns\Generic_Exercise\obj\Debug\Generic_Exercise.csproj.CoreCompileInputs.cache
+D:\C# Programming\C# Code\Generic_Exercise_ns\Generic_Exercise\obj\Debug\Generic_Exercise.exe
+D:\C# Programming\C# Code\Generic_Exercise_ns\Generic_Exercise\obj\Debug\Generic_Exercise.pdb

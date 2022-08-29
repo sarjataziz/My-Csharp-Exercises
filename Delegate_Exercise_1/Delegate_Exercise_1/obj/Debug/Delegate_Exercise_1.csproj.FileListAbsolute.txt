@@ -1,0 +1,8 @@
+D:\C# Programming\C# Code\AAA Windows From C#\Another_Exercise\Delegate_Exercise_1\Delegate_Exercise_1\bin\Debug\Delegate_Exercise_1.exe.config
+D:\C# Programming\C# Code\AAA Windows From C#\Another_Exercise\Delegate_Exercise_1\Delegate_Exercise_1\bin\Debug\Delegate_Exercise_1.exe
+D:\C# Programming\C# Code\AAA Windows From C#\Another_Exercise\Delegate_Exercise_1\Delegate_Exercise_1\bin\Debug\Delegate_Exercise_1.pdb
+D:\C# Programming\C# Code\AAA Windows From C#\Another_Exercise\Delegate_Exercise_1\Delegate_Exercise_1\obj\Debug\Delegate_Exercise_1.csproj.AssemblyReference.cache
+D:\C# Programming\C# Code\AAA Windows From C#\Another_Exercise\Delegate_Exercise_1\Delegate_Exercise_1\obj\Debug\Delegate_Exercise_1.csproj.SuggestedBindingRedirects.cache
+D:\C# Programming\C# Code\AAA Windows From C#\Another_Exercise\Delegate_Exercise_1\Delegate_Exercise_1\obj\Debug\Delegate_Exercise_1.csproj.CoreCompileInputs.cache
+D:\C# Programming\C# Code\AAA Windows From C#\Another_Exercise\Delegate_Exercise_1\Delegate_Exercise_1\obj\Debug\Delegate_Exercise_1.exe
+D:\C# Programming\C# Code\AAA Windows From C#\Another_Exercise\Delegate_Exercise_1\Delegate_Exercise_1\obj\Debug\Delegate_Exercise_1.pdb

@@ -1,0 +1,8 @@
+E:\C# Programming\C# Code\Q_OutPut\Q_OutPut\obj\Debug\Q_OutPut.csproj.AssemblyReference.cache
+E:\C# Programming\C# Code\Q_OutPut\Q_OutPut\obj\Debug\Q_OutPut.csproj.SuggestedBindingRedirects.cache
+E:\C# Programming\C# Code\Q_OutPut\Q_OutPut\obj\Debug\Q_OutPut.csproj.CoreCompileInputs.cache
+E:\C# Programming\C# Code\Q_OutPut\Q_OutPut\bin\Debug\Q_OutPut.exe.config
+E:\C# Programming\C# Code\Q_OutPut\Q_OutPut\bin\Debug\Q_OutPut.exe
+E:\C# Programming\C# Code\Q_OutPut\Q_OutPut\bin\Debug\Q_OutPut.pdb
+E:\C# Programming\C# Code\Q_OutPut\Q_OutPut\obj\Debug\Q_OutPut.exe
+E:\C# Programming\C# Code\Q_OutPut\Q_OutPut\obj\Debug\Q_OutPut.pdb

@@ -1,0 +1,8 @@
+E:\OOP_2\OOP_2\bin\Debug\OOP_2.exe.config
+E:\OOP_2\OOP_2\bin\Debug\OOP_2.exe
+E:\OOP_2\OOP_2\bin\Debug\OOP_2.pdb
+E:\OOP_2\OOP_2\obj\Debug\OOP_2.csproj.AssemblyReference.cache
+E:\OOP_2\OOP_2\obj\Debug\OOP_2.csproj.SuggestedBindingRedirects.cache
+E:\OOP_2\OOP_2\obj\Debug\OOP_2.csproj.CoreCompileInputs.cache
+E:\OOP_2\OOP_2\obj\Debug\OOP_2.exe
+E:\OOP_2\OOP_2\obj\Debug\OOP_2.pdb

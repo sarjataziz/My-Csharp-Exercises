@@ -1,0 +1,8 @@
+E:\NewCode\NewCode\bin\Debug\NewCode.exe.config
+E:\NewCode\NewCode\bin\Debug\NewCode.exe
+E:\NewCode\NewCode\bin\Debug\NewCode.pdb
+E:\NewCode\NewCode\obj\Debug\NewCode.csproj.AssemblyReference.cache
+E:\NewCode\NewCode\obj\Debug\NewCode.csproj.SuggestedBindingRedirects.cache
+E:\NewCode\NewCode\obj\Debug\NewCode.csproj.CoreCompileInputs.cache
+E:\NewCode\NewCode\obj\Debug\NewCode.exe
+E:\NewCode\NewCode\obj\Debug\NewCode.pdb

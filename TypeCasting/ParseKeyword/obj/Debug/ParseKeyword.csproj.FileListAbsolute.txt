@@ -1,0 +1,8 @@
+E:\C# Programming\C# Code\TypeCasting\ParseKeyword\bin\Debug\ParseKeyword.exe.config
+E:\C# Programming\C# Code\TypeCasting\ParseKeyword\bin\Debug\ParseKeyword.exe
+E:\C# Programming\C# Code\TypeCasting\ParseKeyword\bin\Debug\ParseKeyword.pdb
+E:\C# Programming\C# Code\TypeCasting\ParseKeyword\obj\Debug\ParseKeyword.csproj.AssemblyReference.cache
+E:\C# Programming\C# Code\TypeCasting\ParseKeyword\obj\Debug\ParseKeyword.csproj.SuggestedBindingRedirects.cache
+E:\C# Programming\C# Code\TypeCasting\ParseKeyword\obj\Debug\ParseKeyword.csproj.CoreCompileInputs.cache
+E:\C# Programming\C# Code\TypeCasting\ParseKeyword\obj\Debug\ParseKeyword.exe
+E:\C# Programming\C# Code\TypeCasting\ParseKeyword\obj\Debug\ParseKeyword.pdb

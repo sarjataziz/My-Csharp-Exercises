@@ -1,0 +1,8 @@
+D:\C# Programming\C# Code\Abstruct_Exercise\Abstruct_Exercise\bin\Debug\Abstruct_Exercise.exe.config
+D:\C# Programming\C# Code\Abstruct_Exercise\Abstruct_Exercise\bin\Debug\Abstruct_Exercise.exe
+D:\C# Programming\C# Code\Abstruct_Exercise\Abstruct_Exercise\bin\Debug\Abstruct_Exercise.pdb
+D:\C# Programming\C# Code\Abstruct_Exercise\Abstruct_Exercise\obj\Debug\Abstruct_Exercise.csproj.AssemblyReference.cache
+D:\C# Programming\C# Code\Abstruct_Exercise\Abstruct_Exercise\obj\Debug\Abstruct_Exercise.csproj.SuggestedBindingRedirects.cache
+D:\C# Programming\C# Code\Abstruct_Exercise\Abstruct_Exercise\obj\Debug\Abstruct_Exercise.csproj.CoreCompileInputs.cache
+D:\C# Programming\C# Code\Abstruct_Exercise\Abstruct_Exercise\obj\Debug\Abstruct_Exercise.exe
+D:\C# Programming\C# Code\Abstruct_Exercise\Abstruct_Exercise\obj\Debug\Abstruct_Exercise.pdb

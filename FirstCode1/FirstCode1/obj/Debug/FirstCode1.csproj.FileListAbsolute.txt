@@ -1,0 +1,8 @@
+E:\FirstCode1\FirstCode1\bin\Debug\FirstCode1.exe.config
+E:\FirstCode1\FirstCode1\bin\Debug\FirstCode1.exe
+E:\FirstCode1\FirstCode1\bin\Debug\FirstCode1.pdb
+E:\FirstCode1\FirstCode1\obj\Debug\FirstCode1.csproj.AssemblyReference.cache
+E:\FirstCode1\FirstCode1\obj\Debug\FirstCode1.csproj.SuggestedBindingRedirects.cache
+E:\FirstCode1\FirstCode1\obj\Debug\FirstCode1.csproj.CoreCompileInputs.cache
+E:\FirstCode1\FirstCode1\obj\Debug\FirstCode1.exe
+E:\FirstCode1\FirstCode1\obj\Debug\FirstCode1.pdb

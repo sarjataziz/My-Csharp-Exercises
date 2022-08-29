@@ -1,0 +1,11 @@
+E:\C# Programming\C# Code\FieldsExample2\FieldsExample2\obj\Debug\FieldsExample2.csproj.AssemblyReference.cache
+E:\C# Programming\C# Code\FieldsExample2\FieldsExample2\obj\Debug\FieldsExample2.csproj.SuggestedBindingRedirects.cache
+E:\C# Programming\C# Code\FieldsExample2\FieldsExample2\obj\Debug\FieldsExample2.csproj.CoreCompileInputs.cache
+E:\C# Programming\C# Code\FieldsExample2\FieldsExample2\bin\Debug\FieldsExample2.exe.config
+E:\C# Programming\C# Code\FieldsExample2\FieldsExample2\bin\Debug\FieldsExample2.exe
+E:\C# Programming\C# Code\FieldsExample2\FieldsExample2\bin\Debug\FieldsExample2.pdb
+E:\C# Programming\C# Code\FieldsExample2\FieldsExample2\bin\Debug\ClassLibrary2.dll
+E:\C# Programming\C# Code\FieldsExample2\FieldsExample2\bin\Debug\ClassLibrary2.pdb
+E:\C# Programming\C# Code\FieldsExample2\FieldsExample2\obj\Debug\FieldsExample2.csproj.CopyComplete
+E:\C# Programming\C# Code\FieldsExample2\FieldsExample2\obj\Debug\FieldsExample2.exe
+E:\C# Programming\C# Code\FieldsExample2\FieldsExample2\obj\Debug\FieldsExample2.pdb

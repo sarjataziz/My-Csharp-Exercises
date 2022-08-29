@@ -1,0 +1,8 @@
+E:\Hight\Hight\bin\Debug\Hight.exe.config
+E:\Hight\Hight\bin\Debug\Hight.exe
+E:\Hight\Hight\bin\Debug\Hight.pdb
+E:\Hight\Hight\obj\Debug\Hight.csproj.AssemblyReference.cache
+E:\Hight\Hight\obj\Debug\Hight.csproj.SuggestedBindingRedirects.cache
+E:\Hight\Hight\obj\Debug\Hight.csproj.CoreCompileInputs.cache
+E:\Hight\Hight\obj\Debug\Hight.exe
+E:\Hight\Hight\obj\Debug\Hight.pdb

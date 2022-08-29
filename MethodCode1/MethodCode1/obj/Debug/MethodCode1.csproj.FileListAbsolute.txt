@@ -1,0 +1,11 @@
+E:\C# Programming\C# Code\MethodCode1\MethodCode1\bin\Debug\MethodCode1.exe.config
+E:\C# Programming\C# Code\MethodCode1\MethodCode1\bin\Debug\MethodCode1.exe
+E:\C# Programming\C# Code\MethodCode1\MethodCode1\bin\Debug\MethodCode1.pdb
+E:\C# Programming\C# Code\MethodCode1\MethodCode1\bin\Debug\ClassLibrary1.dll
+E:\C# Programming\C# Code\MethodCode1\MethodCode1\bin\Debug\ClassLibrary1.pdb
+E:\C# Programming\C# Code\MethodCode1\MethodCode1\obj\Debug\MethodCode1.csproj.AssemblyReference.cache
+E:\C# Programming\C# Code\MethodCode1\MethodCode1\obj\Debug\MethodCode1.csproj.SuggestedBindingRedirects.cache
+E:\C# Programming\C# Code\MethodCode1\MethodCode1\obj\Debug\MethodCode1.csproj.CoreCompileInputs.cache
+E:\C# Programming\C# Code\MethodCode1\MethodCode1\obj\Debug\MethodCode1.csproj.CopyComplete
+E:\C# Programming\C# Code\MethodCode1\MethodCode1\obj\Debug\MethodCode1.exe
+E:\C# Programming\C# Code\MethodCode1\MethodCode1\obj\Debug\MethodCode1.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OASBank", "Employee\OASBank.csproj", "{A1EE91EA-EEBD-458F-808D-4B1679545765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary3", "ClassLibrary3\ClassLibrary3.csproj", "{F2B3512A-B580-455B-9B2A-827D957A7427}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1EE91EA-EEBD-458F-808D-4B1679545765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1EE91EA-EEBD-458F-808D-4B1679545765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1EE91EA-EEBD-458F-808D-4B1679545765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1EE91EA-EEBD-458F-808D-4B1679545765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2B3512A-B580-455B-9B2A-827D957A7427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B3512A-B580-455B-9B2A-827D957A7427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B3512A-B580-455B-9B2A-827D957A7427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B3512A-B580-455B-9B2A-827D957A7427}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFBD5EAB-A8F9-4D3F-B630-D06BC4142942}
+	EndGlobalSection
+EndGlobal

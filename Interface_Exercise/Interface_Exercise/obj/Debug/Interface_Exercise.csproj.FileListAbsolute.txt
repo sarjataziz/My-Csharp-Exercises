@@ -1,0 +1,8 @@
+D:\C# Programming\C# Code\Interface_Exercise\Interface_Exercise\bin\Debug\Interface_Exercise.exe.config
+D:\C# Programming\C# Code\Interface_Exercise\Interface_Exercise\bin\Debug\Interface_Exercise.exe
+D:\C# Programming\C# Code\Interface_Exercise\Interface_Exercise\bin\Debug\Interface_Exercise.pdb
+D:\C# Programming\C# Code\Interface_Exercise\Interface_Exercise\obj\Debug\Interface_Exercise.csproj.AssemblyReference.cache
+D:\C# Programming\C# Code\Interface_Exercise\Interface_Exercise\obj\Debug\Interface_Exercise.csproj.SuggestedBindingRedirects.cache
+D:\C# Programming\C# Code\Interface_Exercise\Interface_Exercise\obj\Debug\Interface_Exercise.csproj.CoreCompileInputs.cache
+D:\C# Programming\C# Code\Interface_Exercise\Interface_Exercise\obj\Debug\Interface_Exercise.exe
+D:\C# Programming\C# Code\Interface_Exercise\Interface_Exercise\obj\Debug\Interface_Exercise.pdb

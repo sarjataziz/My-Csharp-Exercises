@@ -1,0 +1,11 @@
+E:\C# Programming\C# Code\Employee\Employee\obj\Debug\OASBank.csproj.AssemblyReference.cache
+E:\C# Programming\C# Code\Employee\Employee\obj\Debug\OASBank.csproj.SuggestedBindingRedirects.cache
+E:\C# Programming\C# Code\Employee\Employee\obj\Debug\OASBank.csproj.CoreCompileInputs.cache
+E:\C# Programming\C# Code\Employee\Employee\bin\Debug\Employee.exe.config
+E:\C# Programming\C# Code\Employee\Employee\bin\Debug\Employee.exe
+E:\C# Programming\C# Code\Employee\Employee\bin\Debug\Employee.pdb
+E:\C# Programming\C# Code\Employee\Employee\bin\Debug\ClassLibrary3.dll
+E:\C# Programming\C# Code\Employee\Employee\bin\Debug\ClassLibrary3.pdb
+E:\C# Programming\C# Code\Employee\Employee\obj\Debug\OASBank.csproj.CopyComplete
+E:\C# Programming\C# Code\Employee\Employee\obj\Debug\Employee.exe
+E:\C# Programming\C# Code\Employee\Employee\obj\Debug\Employee.pdb

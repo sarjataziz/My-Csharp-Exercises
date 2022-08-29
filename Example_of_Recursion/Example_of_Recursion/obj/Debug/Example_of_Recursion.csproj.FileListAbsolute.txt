@@ -1,0 +1,8 @@
+E:\C# Programming\C# Code\Example_of_Recursion\Example_of_Recursion\bin\Debug\Example_of_Recursion.exe.config
+E:\C# Programming\C# Code\Example_of_Recursion\Example_of_Recursion\bin\Debug\Example_of_Recursion.exe
+E:\C# Programming\C# Code\Example_of_Recursion\Example_of_Recursion\bin\Debug\Example_of_Recursion.pdb
+E:\C# Programming\C# Code\Example_of_Recursion\Example_of_Recursion\obj\Debug\Example_of_Recursion.csproj.AssemblyReference.cache
+E:\C# Programming\C# Code\Example_of_Recursion\Example_of_Recursion\obj\Debug\Example_of_Recursion.csproj.SuggestedBindingRedirects.cache
+E:\C# Programming\C# Code\Example_of_Recursion\Example_of_Recursion\obj\Debug\Example_of_Recursion.csproj.CoreCompileInputs.cache
+E:\C# Programming\C# Code\Example_of_Recursion\Example_of_Recursion\obj\Debug\Example_of_Recursion.exe
+E:\C# Programming\C# Code\Example_of_Recursion\Example_of_Recursion\obj\Debug\Example_of_Recursion.pdb

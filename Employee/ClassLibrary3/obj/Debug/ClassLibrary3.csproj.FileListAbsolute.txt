@@ -1,0 +1,6 @@
+E:\C# Programming\C# Code\Employee\ClassLibrary3\bin\Debug\ClassLibrary3.dll
+E:\C# Programming\C# Code\Employee\ClassLibrary3\bin\Debug\ClassLibrary3.pdb
+E:\C# Programming\C# Code\Employee\ClassLibrary3\obj\Debug\ClassLibrary3.csproj.AssemblyReference.cache
+E:\C# Programming\C# Code\Employee\ClassLibrary3\obj\Debug\ClassLibrary3.csproj.CoreCompileInputs.cache
+E:\C# Programming\C# Code\Employee\ClassLibrary3\obj\Debug\ClassLibrary3.dll
+E:\C# Programming\C# Code\Employee\ClassLibrary3\obj\Debug\ClassLibrary3.pdb

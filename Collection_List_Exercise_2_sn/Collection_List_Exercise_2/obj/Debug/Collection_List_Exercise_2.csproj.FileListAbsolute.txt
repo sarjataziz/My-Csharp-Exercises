@@ -1,0 +1,8 @@
+D:\C# Programming\C# Code\Collection_List_Exercise_2_sn\Collection_List_Exercise_2\bin\Debug\Collection_List_Exercise_2.exe.config
+D:\C# Programming\C# Code\Collection_List_Exercise_2_sn\Collection_List_Exercise_2\bin\Debug\Collection_List_Exercise_2.exe
+D:\C# Programming\C# Code\Collection_List_Exercise_2_sn\Collection_List_Exercise_2\bin\Debug\Collection_List_Exercise_2.pdb
+D:\C# Programming\C# Code\Collection_List_Exercise_2_sn\Collection_List_Exercise_2\obj\Debug\Collection_List_Exercise_2.csproj.AssemblyReference.cache
+D:\C# Programming\C# Code\Collection_List_Exercise_2_sn\Collection_List_Exercise_2\obj\Debug\Collection_List_Exercise_2.csproj.SuggestedBindingRedirects.cache
+D:\C# Programming\C# Code\Collection_List_Exercise_2_sn\Collection_List_Exercise_2\obj\Debug\Collection_List_Exercise_2.csproj.CoreCompileInputs.cache
+D:\C# Programming\C# Code\Collection_List_Exercise_2_sn\Collection_List_Exercise_2\obj\Debug\Collection_List_Exercise_2.exe
+D:\C# Programming\C# Code\Collection_List_Exercise_2_sn\Collection_List_Exercise_2\obj\Debug\Collection_List_Exercise_2.pdb

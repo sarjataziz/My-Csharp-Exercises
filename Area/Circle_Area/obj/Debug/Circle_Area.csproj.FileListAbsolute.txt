@@ -1,0 +1,8 @@
+E:\Area\Circle_Area\obj\Debug\Circle_Area.csproj.AssemblyReference.cache
+E:\Area\Circle_Area\obj\Debug\Circle_Area.csproj.SuggestedBindingRedirects.cache
+E:\Area\Circle_Area\obj\Debug\Circle_Area.csproj.CoreCompileInputs.cache
+E:\Area\Circle_Area\bin\Debug\Circle_Area.exe.config
+E:\Area\Circle_Area\bin\Debug\Circle_Area.exe
+E:\Area\Circle_Area\bin\Debug\Circle_Area.pdb
+E:\Area\Circle_Area\obj\Debug\Circle_Area.exe
+E:\Area\Circle_Area\obj\Debug\Circle_Area.pdb

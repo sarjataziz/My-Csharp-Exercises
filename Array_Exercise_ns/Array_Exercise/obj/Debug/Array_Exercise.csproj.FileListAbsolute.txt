@@ -1,0 +1,8 @@
+D:\C# Programming\C# Code\Array_Exercise_ns\Array_Exercise\bin\Debug\Array_Exercise.exe.config
+D:\C# Programming\C# Code\Array_Exercise_ns\Array_Exercise\bin\Debug\Array_Exercise.exe
+D:\C# Programming\C# Code\Array_Exercise_ns\Array_Exercise\bin\Debug\Array_Exercise.pdb
+D:\C# Programming\C# Code\Array_Exercise_ns\Array_Exercise\obj\Debug\Array_Exercise.csproj.AssemblyReference.cache
+D:\C# Programming\C# Code\Array_Exercise_ns\Array_Exercise\obj\Debug\Array_Exercise.csproj.SuggestedBindingRedirects.cache
+D:\C# Programming\C# Code\Array_Exercise_ns\Array_Exercise\obj\Debug\Array_Exercise.csproj.CoreCompileInputs.cache
+D:\C# Programming\C# Code\Array_Exercise_ns\Array_Exercise\obj\Debug\Array_Exercise.exe
+D:\C# Programming\C# Code\Array_Exercise_ns\Array_Exercise\obj\Debug\Array_Exercise.pdb

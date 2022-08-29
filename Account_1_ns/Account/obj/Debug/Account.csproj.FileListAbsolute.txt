@@ -1,0 +1,8 @@
+D:\C# Programming\C# Code\Account_1_ns\Account\bin\Debug\Account.exe.config
+D:\C# Programming\C# Code\Account_1_ns\Account\bin\Debug\Account.exe
+D:\C# Programming\C# Code\Account_1_ns\Account\bin\Debug\Account.pdb
+D:\C# Programming\C# Code\Account_1_ns\Account\obj\Debug\Account.csproj.AssemblyReference.cache
+D:\C# Programming\C# Code\Account_1_ns\Account\obj\Debug\Account.csproj.SuggestedBindingRedirects.cache
+D:\C# Programming\C# Code\Account_1_ns\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+D:\C# Programming\C# Code\Account_1_ns\Account\obj\Debug\Account.exe
+D:\C# Programming\C# Code\Account_1_ns\Account\obj\Debug\Account.pdb

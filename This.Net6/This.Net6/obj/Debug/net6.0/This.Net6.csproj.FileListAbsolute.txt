@@ -1,0 +1,15 @@
+D:\C# Programming\C# Code\This.Net6\This.Net6\bin\Debug\net6.0\This.Net6.exe
+D:\C# Programming\C# Code\This.Net6\This.Net6\bin\Debug\net6.0\This.Net6.deps.json
+D:\C# Programming\C# Code\This.Net6\This.Net6\bin\Debug\net6.0\This.Net6.runtimeconfig.json
+D:\C# Programming\C# Code\This.Net6\This.Net6\bin\Debug\net6.0\This.Net6.dll
+D:\C# Programming\C# Code\This.Net6\This.Net6\bin\Debug\net6.0\This.Net6.pdb
+D:\C# Programming\C# Code\This.Net6\This.Net6\obj\Debug\net6.0\This.Net6.csproj.AssemblyReference.cache
+D:\C# Programming\C# Code\This.Net6\This.Net6\obj\Debug\net6.0\This.Net6.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programming\C# Code\This.Net6\This.Net6\obj\Debug\net6.0\This.Net6.AssemblyInfoInputs.cache
+D:\C# Programming\C# Code\This.Net6\This.Net6\obj\Debug\net6.0\This.Net6.AssemblyInfo.cs
+D:\C# Programming\C# Code\This.Net6\This.Net6\obj\Debug\net6.0\This.Net6.csproj.CoreCompileInputs.cache
+D:\C# Programming\C# Code\This.Net6\This.Net6\obj\Debug\net6.0\This.Net6.dll
+D:\C# Programming\C# Code\This.Net6\This.Net6\obj\Debug\net6.0\refint\This.Net6.dll
+D:\C# Programming\C# Code\This.Net6\This.Net6\obj\Debug\net6.0\This.Net6.pdb
+D:\C# Programming\C# Code\This.Net6\This.Net6\obj\Debug\net6.0\This.Net6.genruntimeconfig.cache
+D:\C# Programming\C# Code\This.Net6\This.Net6\obj\Debug\net6.0\ref\This.Net6.dll

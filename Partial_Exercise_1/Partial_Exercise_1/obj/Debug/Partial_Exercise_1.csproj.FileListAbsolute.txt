@@ -1,0 +1,8 @@
+D:\C# Programming\C# Code\Partial_Exercise_1\Partial_Exercise_1\bin\Debug\Partial_Exercise_1.exe.config
+D:\C# Programming\C# Code\Partial_Exercise_1\Partial_Exercise_1\bin\Debug\Partial_Exercise_1.exe
+D:\C# Programming\C# Code\Partial_Exercise_1\Partial_Exercise_1\bin\Debug\Partial_Exercise_1.pdb
+D:\C# Programming\C# Code\Partial_Exercise_1\Partial_Exercise_1\obj\Debug\Partial_Exercise_1.csproj.AssemblyReference.cache
+D:\C# Programming\C# Code\Partial_Exercise_1\Partial_Exercise_1\obj\Debug\Partial_Exercise_1.csproj.SuggestedBindingRedirects.cache
+D:\C# Programming\C# Code\Partial_Exercise_1\Partial_Exercise_1\obj\Debug\Partial_Exercise_1.csproj.CoreCompileInputs.cache
+D:\C# Programming\C# Code\Partial_Exercise_1\Partial_Exercise_1\obj\Debug\Partial_Exercise_1.exe
+D:\C# Programming\C# Code\Partial_Exercise_1\Partial_Exercise_1\obj\Debug\Partial_Exercise_1.pdb

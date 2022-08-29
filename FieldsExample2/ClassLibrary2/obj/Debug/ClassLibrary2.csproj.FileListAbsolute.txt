@@ -1,0 +1,6 @@
+E:\C# Programming\C# Code\FieldsExample2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+E:\C# Programming\C# Code\FieldsExample2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+E:\C# Programming\C# Code\FieldsExample2\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.AssemblyReference.cache
+E:\C# Programming\C# Code\FieldsExample2\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+E:\C# Programming\C# Code\FieldsExample2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+E:\C# Programming\C# Code\FieldsExample2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

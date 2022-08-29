@@ -1,0 +1,8 @@
+E:\Loop1\Loop1\bin\Debug\Loop1.exe.config
+E:\Loop1\Loop1\bin\Debug\Loop1.exe
+E:\Loop1\Loop1\bin\Debug\Loop1.pdb
+E:\Loop1\Loop1\obj\Debug\Loop1.csproj.AssemblyReference.cache
+E:\Loop1\Loop1\obj\Debug\Loop1.csproj.SuggestedBindingRedirects.cache
+E:\Loop1\Loop1\obj\Debug\Loop1.csproj.CoreCompileInputs.cache
+E:\Loop1\Loop1\obj\Debug\Loop1.exe
+E:\Loop1\Loop1\obj\Debug\Loop1.pdb

@@ -1,0 +1,8 @@
+E:\C# Programming\C# Code\Static-Local-Function\Static-Local-Function\bin\Debug\Static-Local-Function.exe.config
+E:\C# Programming\C# Code\Static-Local-Function\Static-Local-Function\bin\Debug\Static-Local-Function.exe
+E:\C# Programming\C# Code\Static-Local-Function\Static-Local-Function\bin\Debug\Static-Local-Function.pdb
+E:\C# Programming\C# Code\Static-Local-Function\Static-Local-Function\obj\Debug\Static-Local-Function.csproj.AssemblyReference.cache
+E:\C# Programming\C# Code\Static-Local-Function\Static-Local-Function\obj\Debug\Static-Local-Function.csproj.SuggestedBindingRedirects.cache
+E:\C# Programming\C# Code\Static-Local-Function\Static-Local-Function\obj\Debug\Static-Local-Function.csproj.CoreCompileInputs.cache
+E:\C# Programming\C# Code\Static-Local-Function\Static-Local-Function\obj\Debug\Static-Local-Function.exe
+E:\C# Programming\C# Code\Static-Local-Function\Static-Local-Function\obj\Debug\Static-Local-Function.pdb

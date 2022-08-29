@@ -1,0 +1,8 @@
+D:\C# Programming\C# Code\Student_ns\Student\obj\Debug\Student.csproj.AssemblyReference.cache
+D:\C# Programming\C# Code\Student_ns\Student\obj\Debug\Student.csproj.SuggestedBindingRedirects.cache
+D:\C# Programming\C# Code\Student_ns\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+D:\C# Programming\C# Code\Student_ns\Student\bin\Debug\Student.exe.config
+D:\C# Programming\C# Code\Student_ns\Student\bin\Debug\Student.exe
+D:\C# Programming\C# Code\Student_ns\Student\bin\Debug\Student.pdb
+D:\C# Programming\C# Code\Student_ns\Student\obj\Debug\Student.exe
+D:\C# Programming\C# Code\Student_ns\Student\obj\Debug\Student.pdb

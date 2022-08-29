@@ -1,0 +1,8 @@
+E:\C# Programming\C# Code\Simple_Eample\Simple_Eample\bin\Debug\Simple_Eample.exe.config
+E:\C# Programming\C# Code\Simple_Eample\Simple_Eample\bin\Debug\Simple_Eample.exe
+E:\C# Programming\C# Code\Simple_Eample\Simple_Eample\bin\Debug\Simple_Eample.pdb
+E:\C# Programming\C# Code\Simple_Eample\Simple_Eample\obj\Debug\Simple_Example.csproj.AssemblyReference.cache
+E:\C# Programming\C# Code\Simple_Eample\Simple_Eample\obj\Debug\Simple_Example.csproj.SuggestedBindingRedirects.cache
+E:\C# Programming\C# Code\Simple_Eample\Simple_Eample\obj\Debug\Simple_Example.csproj.CoreCompileInputs.cache
+E:\C# Programming\C# Code\Simple_Eample\Simple_Eample\obj\Debug\Simple_Eample.exe
+E:\C# Programming\C# Code\Simple_Eample\Simple_Eample\obj\Debug\Simple_Eample.pdb

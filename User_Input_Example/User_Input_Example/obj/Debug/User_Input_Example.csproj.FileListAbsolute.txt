@@ -1,0 +1,11 @@
+D:\C# Programming\C# Code\User_Input_Example\User_Input_Example\bin\Debug\User_Input_Example.exe.config
+D:\C# Programming\C# Code\User_Input_Example\User_Input_Example\bin\Debug\User_Input_Example.exe
+D:\C# Programming\C# Code\User_Input_Example\User_Input_Example\bin\Debug\User_Input_Example.pdb
+D:\C# Programming\C# Code\User_Input_Example\User_Input_Example\obj\Debug\User_Input_Example.csproj.AssemblyReference.cache
+D:\C# Programming\C# Code\User_Input_Example\User_Input_Example\obj\Debug\User_Input_Example.csproj.SuggestedBindingRedirects.cache
+D:\C# Programming\C# Code\User_Input_Example\User_Input_Example\obj\Debug\User_Input_Example.csproj.CoreCompileInputs.cache
+D:\C# Programming\C# Code\User_Input_Example\User_Input_Example\obj\Debug\User_Input_Example.exe
+D:\C# Programming\C# Code\User_Input_Example\User_Input_Example\obj\Debug\User_Input_Example.pdb
+D:\C# Programming\C# Code\User_Input_Example\User_Input_Example\bin\Debug\ClassLibrary1.dll
+D:\C# Programming\C# Code\User_Input_Example\User_Input_Example\bin\Debug\ClassLibrary1.pdb
+D:\C# Programming\C# Code\User_Input_Example\User_Input_Example\obj\Debug\User_Input_Example.csproj.CopyComplete
