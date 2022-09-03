@@ -36,7 +36,6 @@ public class OASBank
 
         Console.WriteLine();
         Console.WriteLine("Thank You.......");
-        Console.ReadKey();
-        
+        Console.ReadKey();        
     }
 }
