@@ -7,9 +7,7 @@ namespace ClassObject
         
         public static void Main()
         {
-            NewClassObject.MyBottle myBottle = new NewClassObject.MyBottle();
-
-            
+            NewClassObject.MyBottle myBottle = new NewClassObject.MyBottle();           
         }
     }
 }
