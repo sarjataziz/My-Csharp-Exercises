@@ -8,6 +8,5 @@ namespace NewClassObject
         {
             Console.WriteLine("I have....");
         }
-
     }
 }
