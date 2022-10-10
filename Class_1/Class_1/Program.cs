@@ -27,7 +27,6 @@ namespace Class_1
             person.lastName = "Aziz";
 
             person.Introduce();
-
         }
     }
 }
