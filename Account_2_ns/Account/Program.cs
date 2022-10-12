@@ -16,6 +16,5 @@ class Program
         account.ShowDetails();
 
         System.Console.ReadKey();
-
     }
 }
